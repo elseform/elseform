@@ -1,5 +1,21 @@
-# Public Index
+# Main Projects
 
-## OGSR Engine
+## GAMMA-related
 
-- Repository: https://github.com/elseform/OGSR-Engine-winefixes
+### GAMMA Setup Tool
+
+Native macOS tool that trivializes the creation and setup of a Sikarugir `.app` wrapper around an existing S.T.A.L.K.E.R. G.A.M.M.A. installation.
+
+https://github.com/elseform/gamma-setup-tool
+
+### GAMMA Texture Downscale Patches
+
+Downscaled texture packs intended for RAM-constrained installs.
+
+https://github.com/elseform/gamma-downscale-patches
+
+## Old stuff
+
+### OGSR Engine with Wine-related fixes
+
+https://github.com/elseform/OGSR-Engine-winefixes
