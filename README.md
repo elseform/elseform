@@ -18,8 +18,8 @@ Downscaled texture packs intended for RAM-constrained installs.
 
 https://github.com/elseform/gamma-downscale-patches
 
-## Old stuff
+### Old and unsupported
 
-### OGSR Engine with Wine-related fixes
+#### OGSR Engine with Wine-related fixes
 
 https://github.com/elseform/OGSR-Engine-winefixes
