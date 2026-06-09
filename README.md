@@ -6,7 +6,7 @@ Native macOS tool that trivializes the creation and setup of a Sikarugir `.app` 
 
 https://github.com/elseform/gamma-setup-tool
 
-### GAMMA Setup Tool
+### GAMMA Mods
 
 Various mods I made.
 
