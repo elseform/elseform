@@ -12,7 +12,7 @@ Various mods I made.
 
 https://github.com/elseform/gamma-mods
 
-### GAMMA Texture Downscale Patches
+### GAMMA Downscale Patches
 
 Downscaled texture packs intended for RAM-constrained installs.
 
