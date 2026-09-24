@@ -4,46 +4,46 @@
 
 ## English
 
-### [GAMMA Setup Tool](https://github.com/elseform/gamma-setup-tool)
+### [Setup Tool](https://github.com/elseform/gamma-setup-tool)
 
-Native macOS app for creating a Sikarugir wrapper around an existing S.T.A.L.K.E.R. G.A.M.M.A. installation. It provides a guided setup flow with configurable Wine engines, graphics backends, display settings, and launch options.
+Native macOS app that wraps an existing installation with Wine and DXMT, handles runtime dependencies, and includes a settings editor.
 
-### [GAMMA Mods](https://github.com/elseform/gamma-mods)
+### [Mods](https://github.com/elseform/gamma-mods)
 
-Small standalone mods and targeted fixes for S.T.A.L.K.E.R. Anomaly and G.A.M.M.A.
+Standalone gameplay mods, tweaks, and targeted fixes, installable through Mod Organizer 2.
 
-### [GAMMA Wine Engine](https://github.com/elseform/gamma-wine-engine)
+### [Wine Engine](https://github.com/elseform/gamma-wine-engine)
 
-Custom high-performance Wine runtime tailored for S.T.A.L.K.E.R. Anomaly and G.A.M.M.A. on Apple Silicon, featuring a custom DXMT build adapted for Apple platforms.
+Custom Wine/CrossOver runtime for Apple Silicon, with DXMT, synchronization and stability patches, and a bundled Configurator.
 
-### [GAMMA Metal Fixes](https://github.com/elseform/gamma-metal-fixes)
+### [Metal Fixes](https://github.com/elseform/gamma-metal-fixes)
 
-Shader compatibility fixes for running G.A.M.M.A. through D3DMetal and DXMT on macOS and Apple Silicon.
+Shader fixes for DXMT and D3DMetal, covering Anomaly, Screen Space Shaders, Atmospherics, and 3D Shader Scopes.
 
-### [GAMMA Downscale Patches](https://github.com/elseform/gamma-downscale-patches)
+### [DXMT Fork](https://github.com/elseform/dxmt)
 
-Downscaled texture packs for lower-RAM S.T.A.L.K.E.R. Anomaly G.A.M.M.A. installations.
+Maintained fork of the Direct3D-to-Metal translation layer, with resource-lifetime, DLSS, and v-sync fixes used by the Wine Engine.
 
 ---
 
 ## Русский
 
-### [GAMMA Setup Tool](https://github.com/elseform/gamma-setup-tool)
+### [Setup Tool](https://github.com/elseform/gamma-setup-tool)
 
-Нативное приложение для macOS, которое создаёт Sikarugir-обёртку для существующей установки S.T.A.L.K.E.R. G.A.M.M.A. Пошаговая настройка позволяет выбрать Wine-движок, графический бэкенд, параметры дисплея и запуска.
+Нативное приложение для macOS: создаёт обёртку с Wine и DXMT для существующей установки, подготавливает необходимые компоненты и включает редактор настроек.
 
-### [GAMMA Mods](https://github.com/elseform/gamma-mods)
+### [Mods](https://github.com/elseform/gamma-mods)
 
-Небольшие самостоятельные моды и точечные исправления для S.T.A.L.K.E.R. Anomaly и G.A.M.M.A.
+Самостоятельные геймплейные моды, настройки и точечные исправления для установки через Mod Organizer 2.
 
-### [GAMMA Wine Engine](https://github.com/elseform/gamma-wine-engine)
+### [Wine Engine](https://github.com/elseform/gamma-wine-engine)
 
-Специализированная высокопроизводительная сборка Wine для S.T.A.L.K.E.R. Anomaly и G.A.M.M.A. на Apple Silicon с модифицированной под Apple версией DXMT.
+Специализированная сборка Wine/CrossOver для Apple Silicon с DXMT, улучшениями синхронизации и стабильности и встроенным Configurator.
 
-### [GAMMA Metal Fixes](https://github.com/elseform/gamma-metal-fixes)
+### [Metal Fixes](https://github.com/elseform/gamma-metal-fixes)
 
-Исправления совместимости шейдеров для запуска G.A.M.M.A. через D3DMetal и DXMT на macOS и Apple Silicon.
+Шейдерные исправления для DXMT и D3DMetal: Anomaly, Screen Space Shaders, Atmospherics и 3D Shader Scopes.
 
-### [GAMMA Downscale Patches](https://github.com/elseform/gamma-downscale-patches)
+### [DXMT Fork](https://github.com/elseform/dxmt)
 
-Пакеты уменьшенных текстур для установок S.T.A.L.K.E.R. Anomaly G.A.M.M.A. с ограниченным объёмом оперативной памяти.
+Поддерживаемый форк транслятора Direct3D в Metal с исправлениями управления ресурсами, DLSS и вертикальной синхронизации, используемый в Wine Engine.
